@@ -547,7 +547,7 @@
 							<div class="mu-contact-content">
 
 								<div id="form-messages"></div>
-						<form class="form" method="POST" action="{{  route('contact') }}" enctype="multipart/form-data">
+						<form class="form" method="POST" action="" enctype="multipart/form-data">
 								   {{ csrf_field() }}
 
 									<div class="form-group">                
